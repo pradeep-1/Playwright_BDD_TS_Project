@@ -1,5 +1,5 @@
 {
-  "name": "play-ts-cucumber",
+  "name": "playwright-bdd-ts",
   "version": "1.0.0",
   "description": "Playwright Cucumber TS framework - The easiest way to learn",
   "main": "index.js",
