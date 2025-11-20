@@ -1,7 +1,7 @@
 {
   "name": "playwright-bdd-ts",
   "version": "1.0.0",
-  "description": "Playwright Cucumber TS framework - The easiest way to learn",
+  "description": "Playwright Typescript Cucumber BDD Framework",
   "main": "index.js",
   "scripts": {
     "debug": "cross-env ENV=prod PWDEBUG=1 DEBUG=pw:api cucumber-js --config=config/cucumber.js",
