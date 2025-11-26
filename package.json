@@ -26,5 +26,9 @@
     "multiple-cucumber-html-reporter": "^3.3.0",
     "ts-node": "^10.9.1",
     "winston": "^3.8.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.84.0",
+    "pg": "^8.16.3"
   }
 }
